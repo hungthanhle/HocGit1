@@ -1,1 +1,3 @@
 Người 1 thêm feature1
+
+Người 1 sửa feature1
